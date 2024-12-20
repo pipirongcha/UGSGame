@@ -1,0 +1,13 @@
+C:\Users\pipir\AppData\Local\Temp\CloudCodeReference\module-compilation\CloudCodeReference.dll
+C:\Users\pipir\AppData\Local\Temp\CloudCodeReference\module-compilation\CloudCodeReference.deps.json
+C:\Users\pipir\AppData\Local\Temp\CloudCodeReference\module-compilation\CloudCodeReference.pdb
+C:\Users\pipir\AppData\Local\Temp\CloudCodeReference\module-compilation\Unity.Services.CloudCode.Apis.dll
+C:\Users\pipir\AppData\Local\Temp\CloudCodeReference\module-compilation\Unity.Services.CloudCode.Core.dll
+C:\Users\pipir\AppData\Local\Temp\CloudCodeReference\module-compilation\Google.Protobuf.dll
+C:\Users\pipir\AppData\Local\Temp\CloudCodeReference\module-compilation\Grpc.Core.Api.dll
+C:\Users\pipir\AppData\Local\Temp\CloudCodeReference\module-compilation\Grpc.Net.Client.dll
+C:\Users\pipir\AppData\Local\Temp\CloudCodeReference\module-compilation\Grpc.Net.Common.dll
+C:\Users\pipir\AppData\Local\Temp\CloudCodeReference\module-compilation\JsonSubTypes.dll
+C:\Users\pipir\AppData\Local\Temp\CloudCodeReference\module-compilation\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pipir\AppData\Local\Temp\CloudCodeReference\module-compilation\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pipir\AppData\Local\Temp\CloudCodeReference\module-compilation\Newtonsoft.Json.dll

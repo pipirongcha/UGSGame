@@ -1,0 +1,12 @@
+C:\Users\pipir\Desktop\Study\UnityProject\UGSGame\CloudCodeReference\Project\bin\Release\net6.0\any\CloudCodeReference.deps.json
+C:\Users\pipir\Desktop\Study\UnityProject\UGSGame\CloudCodeReference\Project\bin\Release\net6.0\any\CloudCodeReference.dll
+C:\Users\pipir\Desktop\Study\UnityProject\UGSGame\CloudCodeReference\Project\bin\Release\net6.0\any\CloudCodeReference.pdb
+C:\Users\pipir\Desktop\Study\UnityProject\UGSGame\CloudCodeReference\Project\obj\Release\net6.0\any\CloudCodeReference.csproj.AssemblyReference.cache
+C:\Users\pipir\Desktop\Study\UnityProject\UGSGame\CloudCodeReference\Project\obj\Release\net6.0\any\CloudCodeReference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pipir\Desktop\Study\UnityProject\UGSGame\CloudCodeReference\Project\obj\Release\net6.0\any\CloudCodeReference.AssemblyInfoInputs.cache
+C:\Users\pipir\Desktop\Study\UnityProject\UGSGame\CloudCodeReference\Project\obj\Release\net6.0\any\CloudCodeReference.AssemblyInfo.cs
+C:\Users\pipir\Desktop\Study\UnityProject\UGSGame\CloudCodeReference\Project\obj\Release\net6.0\any\CloudCodeReference.csproj.CoreCompileInputs.cache
+C:\Users\pipir\Desktop\Study\UnityProject\UGSGame\CloudCodeReference\Project\obj\Release\net6.0\any\CloudCodeReference.dll
+C:\Users\pipir\Desktop\Study\UnityProject\UGSGame\CloudCodeReference\Project\obj\Release\net6.0\any\refint\CloudCodeReference.dll
+C:\Users\pipir\Desktop\Study\UnityProject\UGSGame\CloudCodeReference\Project\obj\Release\net6.0\any\CloudCodeReference.pdb
+C:\Users\pipir\Desktop\Study\UnityProject\UGSGame\CloudCodeReference\Project\obj\Release\net6.0\any\ref\CloudCodeReference.dll
