@@ -10,3 +10,4 @@ C:\Users\pipir\Desktop\Study\UnityProject\UGSGame\CloudCodeReference\Project\obj
 C:\Users\pipir\Desktop\Study\UnityProject\UGSGame\CloudCodeReference\Project\obj\Release\net6.0\any\refint\CloudCodeReference.dll
 C:\Users\pipir\Desktop\Study\UnityProject\UGSGame\CloudCodeReference\Project\obj\Release\net6.0\any\CloudCodeReference.pdb
 C:\Users\pipir\Desktop\Study\UnityProject\UGSGame\CloudCodeReference\Project\obj\Release\net6.0\any\ref\CloudCodeReference.dll
+C:\Users\pipir\Desktop\Study\UnityProject\UGSGame\CloudCodeReference\Project\obj\Release\net6.0\any\CloudCodeReference.sourcelink.json

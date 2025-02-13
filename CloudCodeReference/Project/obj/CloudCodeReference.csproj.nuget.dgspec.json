@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pipir\\Desktop\\Study\\UnityProject\\UGSGame\\CloudCodeReference\\Project\\CloudCodeReference.csproj": {}
+    "D:\\Study\\UnityProject\\UGSGame\\CloudCodeReference\\Project\\CloudCodeReference.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pipir\\Desktop\\Study\\UnityProject\\UGSGame\\CloudCodeReference\\Project\\CloudCodeReference.csproj": {
+    "D:\\Study\\UnityProject\\UGSGame\\CloudCodeReference\\Project\\CloudCodeReference.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pipir\\Desktop\\Study\\UnityProject\\UGSGame\\CloudCodeReference\\Project\\CloudCodeReference.csproj",
+        "projectUniqueName": "D:\\Study\\UnityProject\\UGSGame\\CloudCodeReference\\Project\\CloudCodeReference.csproj",
         "projectName": "CloudCodeReference",
-        "projectPath": "C:\\Users\\pipir\\Desktop\\Study\\UnityProject\\UGSGame\\CloudCodeReference\\Project\\CloudCodeReference.csproj",
+        "projectPath": "D:\\Study\\UnityProject\\UGSGame\\CloudCodeReference\\Project\\CloudCodeReference.csproj",
         "packagesPath": "C:\\Users\\pipir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pipir\\Desktop\\Study\\UnityProject\\UGSGame\\CloudCodeReference\\Project\\obj\\",
+        "outputPath": "D:\\Study\\UnityProject\\UGSGame\\CloudCodeReference\\Project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pipir\\AppData\\Roaming\\NuGet\\NuGet.Config",

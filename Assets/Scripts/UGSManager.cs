@@ -19,6 +19,7 @@ using UnityEngine.SocialPlatforms.Impl;
 using Unity.Services.CloudCode.GeneratedBindings;
 using Unity.Services.CloudCode;
 using Newtonsoft.Json;
+using UnityEngine.SceneManagement;
 
 public class UGSManager : MonoBehaviour
 {
@@ -40,7 +41,10 @@ public class UGSManager : MonoBehaviour
     {
         await UnityServices.InitializeAsync(); //전체적인 이니셜라이즈!
         await AuthenticationService.Instance.SignInAnonymouslyAsync(); //게스트 로그인의 구현, 이 기기로 로그인 하면 같은 계정으로 쳐요~!
-
+        if (!AuthenticationService.Instance.IsSignedIn)
+        {
+            await AuthenticationService.Instance.SignInAnonymouslyAsync();
+        }
         if (AuthenticationService.Instance.IsSignedIn)
         {
             userIdTmp.text = "Player Id: " + AuthenticationService.Instance.PlayerId;
@@ -60,12 +64,16 @@ public class UGSManager : MonoBehaviour
         }
     }
 
+    public void KeyPressed()
+    {
+        SceneManager.LoadScene("GachaScene");
+    }
     async void CallCloudFunction()
     {
         try
         {
             var module = new CloudCodeReferenceBindings(CloudCodeService.Instance);
-            var result = await module.SayHello(" World");
+            var result = await module.GetGacha();
 
             Debug.Log("Cloud Code result: " + result);
         }
@@ -92,14 +100,6 @@ public class UGSManager : MonoBehaviour
         //ssalTmp.text = result.Balances.Single(balance => balance.CurrencyId == "SSAL").Balance.ToString();
 
         await FetchAllInventoryItems();
-
-        //Items.Clear();
-        //GetInventoryOptions options = new GetInventoryOptions
-        //{
-        //    ItemsPerFetch = 40
-        //};
-        //var invenResult = await EconomyService.Instance.PlayerInventory.GetInventoryAsync();
-        //Items.AddRange(invenResult.PlayersInventoryItems);
 
         int counter = 0;
         foreach (var item in items)

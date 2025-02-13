@@ -23,5 +23,15 @@ namespace Unity.Services.CloudCode.GeneratedBindings
                     {"name", name},
                 });
         }
+
+        public async Task<string> GetGacha()
+        {
+            return await k_Service.CallModuleEndpointAsync<string>(
+                "CloudCodeReference",
+                "GetGacha",
+                new Dictionary<string, object>()
+                {
+                });
+        }
     }
 }
